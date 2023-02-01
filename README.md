@@ -8,7 +8,7 @@
 class DevopsEngineer:
 
     def __init__(self):
-        self.name = "Daniel Ortiz Anaya"
+        self.name = "Daniel Ortiz"
         self.role = "Devops Engineer"
         self.language_spoken = ["Spanish", "English"]
         self.programming_language = ["Python", "Bash", "C++", "JavaScript"]
